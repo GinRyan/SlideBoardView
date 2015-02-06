@@ -1,11 +1,18 @@
-package org.gryan.slideboardview;
+package org.gryan.slideboardview.demo;
 
+import org.gryan.slideboardview.R;
+import org.gryan.slideboardview.SlideBoardView;
+import org.gryan.slideboardview.R.id;
+import org.gryan.slideboardview.R.layout;
 import org.gryan.slideboardview.SlideBoardView.OnCollapseBoardListener;
 
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.support.v4.view.MotionEventCompat;
+import android.view.MotionEvent;
 import android.view.View;
+import android.view.View.OnTouchListener;
 
 /**
  * sample
@@ -34,5 +41,6 @@ public class MainActivity extends Activity {
 				}
 			}
 		});
+
 	}
 }
