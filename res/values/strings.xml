@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlideboardView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drag_me">Drag Me!</string>
+    <string name="flag">Flag</string>
+
+</resources>
