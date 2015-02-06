@@ -10,8 +10,9 @@ SlideBoardView
 How to Use:
 ======
 
-	1、在需要的布局文件当中放如下内容：
-	示例代码：
+1、在需要的布局文件当中放如下内容：
+
+示例代码：
 	
 		<!--最外层布局是用于固定横向可滑动范围-->
 		...
@@ -41,13 +42,14 @@ How to Use:
 					如需横向滑动放更多控件可以使用HorizontalScrollView。-->
 					
 					...
-		</org.gryan.slideboardview.SlideInnerLayout>
-	</org.gryan.slideboardview.SlideBoardView>
+			</org.gryan.slideboardview.SlideInnerLayout>
+		</org.gryan.slideboardview.SlideBoardView>
 	...
 		
 	
-	2、事件监听
-		如果需要监听滑动展开/隐藏事件可以使用以下方式实现：
+2、事件监听
+
+如果需要监听滑动展开/隐藏事件可以使用以下方式实现：
 	
 		SlideBoardView slideBoardView1 = null;
 		slideBoardView1 = (SlideBoardView) findViewById(R.id.slideBoardView1);
