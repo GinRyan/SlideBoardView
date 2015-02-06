@@ -3,9 +3,9 @@ SlideBoardView
 ![SlideBoardView](https://github.com/GinRyan/SlideBoardView/blob/master/snapshot/snapshot_rec.gif)
 
 	这是一个用于使用“手柄”左右滑动的控件，实现滑动手柄可以展开/隐藏某个布局
-	由于本人是对自定义控件不是十分熟悉…… 所以这次编写的控件使用方法比较笨…… 
+	
 	各位看官们认为有用，就将就着用吧，如果觉得太笨拙太麻烦，或者有神马改进建议，
-	欢迎fork以后修改提交修改补丁或者修改自行发布，3Q~
+	欢迎fork以后提交修改补丁或者提交issue。
 	
 How to Use:
 ======
